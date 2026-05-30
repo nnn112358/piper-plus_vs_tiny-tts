@@ -6,7 +6,7 @@
 - **tiny_tts_onnx** — text_encoder / duration_predictor / flow / decoder の **4分割 fp32** ONNX（間のアライメント計算は Python/NumPy）
 
 
-
+[https://github.com/nnn112358/piper-plus_vs_tiny-tts/blob/main/tiny_tts_stft.mp4](tiny_tts_stft.mp4)
 ---
 
 ## 計測条件
