@@ -5,6 +5,8 @@
 - **piperplus_onnx** —  **end-to-end fp16** ONNX（tsukuyomi-chan 6言語モデル）
 - **tiny_tts_onnx** — text_encoder / duration_predictor / flow / decoder の **4分割 fp32** ONNX（間のアライメント計算は Python/NumPy）
 
+
+
 ---
 
 ## 計測条件
