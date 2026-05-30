@@ -7,6 +7,8 @@
 
 
 [https://github.com/nnn112358/piper-plus_vs_tiny-tts/blob/main/tiny_tts_stft.mp4](tiny_tts_stft.mp4)
+
+
 ---
 
 ## 計測条件
